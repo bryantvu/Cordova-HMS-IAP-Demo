@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordovaPluginIap": {
+    "source": {
+      "type": "local",
+      "path": "D:\\Huawei IAP Testing\\bodbot iap testing\\hello\\node_modules\\cordovaPluginIap"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
