@@ -10,3 +10,4 @@ Open shell at project root and run command
 cordova run android
 ```
 
+<img src="images/demo.jpg" height="600"/>
